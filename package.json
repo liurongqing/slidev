@@ -5,6 +5,7 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
+    "dev:slidev": "slidev --open --port=3031",
     "export": "slidev export"
   },
   "dependencies": {
